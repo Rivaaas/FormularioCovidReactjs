@@ -5,7 +5,7 @@ import imagensi from '../components/IMG/si.png'
 const Aceptado = () => {
     return (
         <>
-            <div className="row justify-content-center">
+            <div className="row justify-content-center s">
                 <div className="col-sm-6">
                     <img src={imagensi}/>
                 </div>
