@@ -52,6 +52,8 @@ code {
   width: 80%;
   margin-left: 90px;
   margin-bottom: 19px;
+  padding-left: 80px;
+  
 }
 
 .col-sm-8{
@@ -64,7 +66,8 @@ code {
 }
 
 .colorAzul{
-  color:rgb(9, 157, 243)
+  color:rgb(9, 157, 243);
+  padding-left: 370px;
 }
 
 .btnEnviar{
@@ -81,4 +84,26 @@ code {
   width: 20%;
   padding: 1% 1% 1% 1%;
   margin-left: 36%;
+}
+
+
+
+.sino{
+  padding-left: 190px;
+}
+
+.no{
+  padding-right: 0px;
+}
+
+.siingresa{
+  width: 100%;
+  padding-left: 320px;
+  padding-top: 100px;
+}
+
+.noingresa{
+  width: 100%;
+  padding-left: 360px;
+  padding-top: 100px;
 }
